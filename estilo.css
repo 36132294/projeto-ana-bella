@@ -1,3 +1,30 @@
+*{
+    margin: 4px;
+    padding-top: 0px;
+}
 body{
     background: url('imagens/fundo.png');
+    width: 914px;
+}
+#menu {
+    background-color: #c5c5b2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    display: block;
+    padding: 10px;
+    
+}
+#menu ul{
+    display:inline-block;
+}
+#menu ul a{
+    color: #888873;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+    width: 900px;
+    padding-right: 15px;
+}
+#menu ul a:hover{
+    color: #4d4c3a;
 }
