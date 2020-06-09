@@ -28,3 +28,30 @@ body{
 #menu ul a:hover{
     color: #4d4c3a;
 }
+/*stilizando css do conteudo*/
+#conteudo{
+    background-color: #e8e8d9;
+}
+h1{
+    color: #888873;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: #53523f;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 13px;
+    padding-left: 8px;
+}
+/*stilizando rodape*/
+#rodape{
+    color: #53523f;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 12px;
+}
