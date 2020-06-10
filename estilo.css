@@ -13,9 +13,11 @@ body{
     display: block;
     padding: 10px;
     
+    
 }
 #menu ul{
     display:inline-block;
+    height: 5px;
 }
 #menu ul a{
     color: #888873;
@@ -24,6 +26,8 @@ body{
     margin-right: 15px;
     width: 900px;
     padding-right: 15px;
+    margin-right: 10px;
+    display: inline;
 }
 #menu ul a:hover{
     color: #4d4c3a;
@@ -31,6 +35,8 @@ body{
 /*stilizando css do conteudo*/
 #conteudo{
     background-color: #e8e8d9;
+    padding: 5px;
+    display: block;
 }
 h1{
     color: #888873;
@@ -54,4 +60,10 @@ p{
     font-weight: bold;
     padding: 10px;
     font-size: 12px;
+}
+.imagens-campanhas{
+    border: 10px solid #c3c3ae;
+}
+a{
+    margin-left: 0;
 }
